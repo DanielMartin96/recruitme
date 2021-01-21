@@ -1,0 +1,9 @@
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const USER_LOADED = "USER_LOADED";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGOUT = "LOGOUT";
+export const GET_JOBS = "GET_JOBS";
+export const GET_JOB = "GET_JOB";
+export const ADD_JOB = "ADD_JOB";
+export const EDIT_JOB = "EDIT_JOB";
+export const JOB_DELETED = "JOB_DELETED";
